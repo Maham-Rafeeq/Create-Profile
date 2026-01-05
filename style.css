@@ -69,10 +69,9 @@
   button:hover {
     transform: translateY(-2px);
     box-shadow: 0 10px 20px rgba(0,0,0,0.2);
-  }
-    @media (max-width: 480px) {
+  }    @media (max-width: 480px) {
     .card {
-        width: 300px;
       padding: 25px 20px;
     }
-}
+
+  }
